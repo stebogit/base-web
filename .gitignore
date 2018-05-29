@@ -1,0 +1,14 @@
+/vendor/
+/logs/*
+!/logs/README.md
+**/node_modules/
+
+# MAC OSX system files #
+.DS_Store
+
+# JBrain #
+.idea/
+
+.env
+.env.*
+!.env.example
